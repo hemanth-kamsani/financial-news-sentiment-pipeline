@@ -8,3 +8,4 @@ dbt-snowflake==1.8.0
 langsmith==0.1.75
 pytest==8.2.0
 jupyter==1.0.0
+duckdb==1.2.2
