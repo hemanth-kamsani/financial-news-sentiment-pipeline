@@ -1,0 +1,62 @@
+[
+    {
+        "headline": "JPMorgan reports record quarterly profit, beats estimates by 15%",
+        "ticker": "JPM",
+        "expected_sentiment": "positive",
+        "expected_event_type": "earnings"
+    },
+    {
+        "headline": "Federal Reserve raises interest rates by 0.75%, highest in 40 years",
+        "ticker": "JPM",
+        "expected_sentiment": "negative",
+        "expected_event_type": "macroeconomic"
+    },
+    {
+        "headline": "Goldman Sachs announces 3,000 layoffs amid revenue decline",
+        "ticker": "GS",
+        "expected_sentiment": "negative",
+        "expected_event_type": "other"
+    },
+    {
+        "headline": "Microsoft acquires fintech startup for $2.3 billion",
+        "ticker": "MSFT",
+        "expected_sentiment": "positive",
+        "expected_event_type": "merger_acquisition"
+    },
+    {
+        "headline": "Apple beats earnings expectations, raises full year guidance",
+        "ticker": "AAPL",
+        "expected_sentiment": "positive",
+        "expected_event_type": "earnings"
+    },
+    {
+        "headline": "Bank of America faces $250 million fine over consumer fraud",
+        "ticker": "BAC",
+        "expected_sentiment": "negative",
+        "expected_event_type": "legal"
+    },
+    {
+        "headline": "Amazon Web Services reports 40% revenue growth in cloud segment",
+        "ticker": "AMZN",
+        "expected_sentiment": "positive",
+        "expected_event_type": "earnings"
+    },
+    {
+        "headline": "Morgan Stanley CEO announces surprise retirement effective immediately",
+        "ticker": "MS",
+        "expected_sentiment": "negative",
+        "expected_event_type": "leadership"
+    },
+    {
+        "headline": "S&P 500 drops 4% as inflation data exceeds expectations",
+        "ticker": "GS",
+        "expected_sentiment": "negative",
+        "expected_event_type": "market"
+    },
+    {
+        "headline": "BlackRock assets under management hit record $10 trillion",
+        "ticker": "BLK",
+        "expected_sentiment": "positive",
+        "expected_event_type": "other"
+    }
+]
